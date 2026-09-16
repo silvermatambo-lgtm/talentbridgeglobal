@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "/talent-bridge-logo.jpeg",
-      "sizes": "512x512",
+      "sizes": "any",
       "type": "image/jpeg",
       "purpose": "any"
     }
